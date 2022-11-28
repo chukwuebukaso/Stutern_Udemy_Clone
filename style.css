@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: udemy sans, sf pro text, -apple-system, BlinkMacSystemFont,
+    Roboto, segoe ui, Helvetica, Arial, sans-serif, apple color emoji,
+    segoe ui emoji, segoe ui symbol;
+  font-weight: 400;
+  line-height: 1.4;
+  font-size: 1.6rem;
+  color: #1c1d1f;
+}
+
+footer {
+  display: block;
+  background: #1c1d1f;
+  border-top: 1px solid #3e4143;
+  color: #fff;
+  padding-left: 2.4rem;
+  padding-right: 2.4rem;
+}
+.content {
+  padding-top: 2.4rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: normal;
+  justify-content: normal;
+  align-items: normal;
+}
+
+footer ul {list-style: none;
+    
+}
